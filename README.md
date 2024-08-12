@@ -1,15 +1,11 @@
-# docs
+# Bun Markdown (ON PROGRESS)
 
-To install dependencies:
+It's a template to create markdown documentation using Bun and Markdown. The idea is dead simple.just to convert the Markdown to Static HTML.
 
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.21. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+- [x] Basic Converter
+- [ ] Styling
+- [ ] Customization
+- [ ] Resetter
+- [ ] MDX Supports
+- [ ] Configurations
+- [ ] NPM Package
